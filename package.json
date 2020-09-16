@@ -11,10 +11,18 @@
     "node",
     "npm"
   ],
-  "author": "",
+  "author": "Alejandro Palacios Arévalo <alejandro.palacios88@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alpacorp/npm-messages-alpacorp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alpacorp/npm-messages-alpacorp/issues"
+  },
+  "homepage": "https://github.com/Alpacorp/npm-messages-alpacorp#readme"
 }
